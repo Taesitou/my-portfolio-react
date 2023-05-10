@@ -1,0 +1,16 @@
+.button-container{
+    width: 50%;
+    height: 8%;
+    display: flex;
+    justify-content: center;
+}
+.button{
+    background-color: #009E66;
+    font-size: 1.1rem;
+    font-weight: 600; 
+    color: #fff;
+    border-style: none;
+    border-radius: 16px;
+    width: 58%;
+    height: 100%;
+}

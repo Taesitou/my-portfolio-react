@@ -1,0 +1,29 @@
+
+.section-about-me{
+    width: 70%;
+    display: flex;
+    gap: 4%;
+  }
+  
+.img-left{
+    height: 40vh;
+    max-width: 20%;
+}
+
+.img-left img{
+    max-width: 100%;
+}
+
+.information{
+    display: flex;
+    flex-direction: column;
+    height: 40vh;
+    width: 80%;
+    gap: 4%;
+
+}
+
+.trajectory{
+    display: flex;
+    gap: 4%;
+}

@@ -1,0 +1,16 @@
+.project-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  max-width: 25%;
+}
+.project-card__image img{
+    max-width: 100%;
+    border-radius: 4% 4% 0% 0%;
+}
+
+.project-card__content{
+    background-color: #1E3851;
+    border-radius: 0% 0% 4% 4%;
+    padding: 2%;
+}
